@@ -20,6 +20,7 @@ The purpose of this repository is to:
 - SQL
 - Jupyter Notebook
 - VS Code
+- Leetcode
 
 ## 📂 Repository Structure
 
@@ -62,6 +63,9 @@ LeetCode/
 Solve Data Science relevant LeetCode problems consistently and document optimized solutions for future reference and interview preparation.
 
 ## 🚀 Progress
+
+## Author 
+- Bunty Saini
 
 This repository will be updated regularly as I solve more LeetCode challenges.
 
